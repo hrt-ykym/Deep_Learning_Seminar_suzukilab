@@ -1,2 +1,6 @@
 # git管理しないものを書いておく.
 .DS_Store
+*.aux
+*.log
+*.out
+*.gz
