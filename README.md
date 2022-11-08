@@ -16,6 +16,7 @@
   - code: 実装コード
     - `jax_perceptron_criterion.ipynb`: # パーセプトロン基準を損失とする単層パーセプトロンのJAX実装
   - document: 資料
+    - `chap01.pdf`: 第1章説明用資料
 - Errata: 正誤表
   - `errata.md`: 正誤表
 - Extra: 輪講の主題ではない資料等
