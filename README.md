@@ -13,12 +13,13 @@
 - [ニューラルネットワークとディープラーニング_Charu C. Aggarwal (著), 竹村 彰通 (監修), 今泉 允聡  (監修, 翻訳), 李 鍾賛 (翻訳), 今井 貴史 (翻訳), 今井 徹 (翻訳), その他](https://www.amazon.co.jp/dp/4780607140/) (1章のみ)
 
 # Contents
-- chap01: 第1章
+- No_1: 第1回
   - code: 実装コード
     - `jax_perceptron_criterion.ipynb`: # パーセプトロン基準を損失とする単層パーセプトロンのJAX実装
   - document: 資料
-    - `chap01.pdf`: 第1章説明用資料
+    - `No_01.pdf`: 第1章説明用資料
 - Errata: 正誤表
   - `errata.md`: 正誤表
 - Extra: 輪講の主題ではない資料等
   - `VSCode_extensions_memo.md`: VSCodeの拡張機能設定のメモ
+- No_02: 第2回
